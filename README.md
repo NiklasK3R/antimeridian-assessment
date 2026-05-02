@@ -36,7 +36,7 @@ jump at +-180°.
 The mathematical logic is isolated in `app/logic.py` and independently
 tested in `tests/test_logic.py`, separate from the API layer.
 
-##API Documentation
+## API Documentation
 ![Swagger UI](docs/swagger.png)
 
 ## Limitations & Assumptions
