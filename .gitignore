@@ -11,3 +11,4 @@ def __repr__(self):
 # Virtual environments
 .venv
 EOF
+.coverage
