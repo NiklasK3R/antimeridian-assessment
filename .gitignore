@@ -5,8 +5,6 @@ build/
 dist/
 wheels/
 *.egg-info
-def __repr__(self):
-        return f"Tensor(data={self.data}, requires_grad={self.requires_grad})"
 .pytest_cache/
 # Virtual environments
 .venv
